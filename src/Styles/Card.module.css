@@ -1,0 +1,11 @@
+.cardContainer{
+    color:green;
+    border: solid 2px black;
+    padding: 10px;
+}
+
+.cardContainer ul{
+    list-style: none;
+    align-items: center;
+    padding-right: 50px;
+}
